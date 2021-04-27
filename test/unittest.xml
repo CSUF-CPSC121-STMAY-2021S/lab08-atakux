@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="4" failures="0" disabled="0" errors="0" time="0.001" timestamp="2021-04-26T21:02:37" name="AllTests">
+  <testsuite name="Products" tests="4" failures="0" disabled="0" errors="0" time="0.001" timestamp="2021-04-26T21:02:37">
+    <testcase name="Constructor" status="run" result="completed" time="0" timestamp="2021-04-26T21:02:37" classname="Products" />
+    <testcase name="ProductEntry" status="run" result="completed" time="0" timestamp="2021-04-26T21:02:37" classname="Products" />
+    <testcase name="ProductSearch" status="run" result="completed" time="0" timestamp="2021-04-26T21:02:37" classname="Products" />
+    <testcase name="ProductSearchFail" status="run" result="completed" time="0" timestamp="2021-04-26T21:02:37" classname="Products" />
+  </testsuite>
+</testsuites>
